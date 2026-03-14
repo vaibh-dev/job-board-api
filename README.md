@@ -251,7 +251,9 @@ Stage 1 uses Maven to build the JAR. Stage 2 copies only the JAR into a slim JRE
 ---
 
 ## HLD
+<img width="830" height="698" alt="Image" src="https://github.com/user-attachments/assets/52bd7ab1-3404-45ff-9375-66bbfb75d579" />
 
+---
 
 ## Running Tests
 ```bash
